@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "FeePayment", "FeePayment\FeePayment.ssmssqlproj", "{0DD8FF95-CD43-4C62-83C8-A97A324A63E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DD8FF95-CD43-4C62-83C8-A97A324A63E6}.Default|Default.ActiveCfg = Default
+		{D52DA47F-1D18-4D78-B833-15097C38B993}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1C2BDF8-86BF-4DBB-9A0B-841754808C1F}
+	EndGlobalSection
+EndGlobal
